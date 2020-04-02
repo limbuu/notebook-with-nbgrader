@@ -1,7 +1,7 @@
 # notebook-with-nbgrader
 
 ## Prerequisites
-You must have docker installed first.
+You must have docker installed first. Follow instructions in the link https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
     $ docker version
 ## Clone the repo 
