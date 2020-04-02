@@ -2,6 +2,7 @@
 
 ## Prerequisites
 You must have latest docker ce installed.
+
     $ docker version
 ## Clone the repo 
     $ git clone https://github.com/limbuu/notebook-with-nbgrader
